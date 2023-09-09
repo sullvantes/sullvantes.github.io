@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sullvantes/static/css/main.073c9b0a.css",
-    "main.js": "/sullvantes/static/js/main.a2378440.js",
-    "static/js/787.5795c6cb.chunk.js": "/sullvantes/static/js/787.5795c6cb.chunk.js",
-    "service-worker.js": "/sullvantes/service-worker.js",
-    "static/media/logo.svg": "/sullvantes/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/sullvantes/index.html",
-    "main.073c9b0a.css.map": "/sullvantes/static/css/main.073c9b0a.css.map",
-    "main.a2378440.js.map": "/sullvantes/static/js/main.a2378440.js.map",
-    "787.5795c6cb.chunk.js.map": "/sullvantes/static/js/787.5795c6cb.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.689dd411.js",
+    "static/js/787.5795c6cb.chunk.js": "/static/js/787.5795c6cb.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.689dd411.js.map": "/static/js/main.689dd411.js.map",
+    "787.5795c6cb.chunk.js.map": "/static/js/787.5795c6cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a2378440.js"
+    "static/js/main.689dd411.js"
   ]
 }
