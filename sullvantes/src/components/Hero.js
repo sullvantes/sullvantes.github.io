@@ -8,7 +8,7 @@ function Hero() {
     <div className="hero">
       <img
         src={winstar}
-        alt="Hero Image"
+        alt="sleeping cat"
         className="hero-image"
       />
       <div className="hero-content">

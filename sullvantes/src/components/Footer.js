@@ -6,7 +6,7 @@ function Footer() {
     return (
         <div>
         <img src={winstar} className="App-logo" alt="logo" />
-        <p>This is our cat Winnie. He's not spinning, we are since he died in August 2023. </p>
+        <p>This is our cat Winnie. He's not spinning, we are. Since he left us in August. <br/>Though nothing loved ever dies. </p>
         </div>
         );
     }

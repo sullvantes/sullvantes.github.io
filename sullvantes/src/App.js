@@ -1,9 +1,10 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as _Router, Routes, Route } from 'react-router-dom';
 import Hero from './components/Hero';
 import MegaMenu from './components/MegaMenu';
 import Footer from './components/Footer';
-import logo from './logo.svg';
+import Tools from '../src/pages/Tools';
+
 import './App.css';
 
 
@@ -53,15 +54,6 @@ function Services() {
   );
 }
 
-function Tools() {
-  return (
-    <div>
-      <h2>Tools</h2>
-      <p>This is where I stash scipts and tools for productivity and recordkeeping. </p>
-    </div>
-  );
-}
-
 function Contact() {
   return (
     <div>
@@ -80,6 +72,7 @@ function Contact() {
 function App() {
   
   return (
+    
     <div className="App">
       <MegaMenu />
       <br/>
@@ -93,6 +86,7 @@ function App() {
         </Routes>
         
       <Footer />
+
         </div>
       );
 }
